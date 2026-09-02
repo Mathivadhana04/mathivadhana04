@@ -177,8 +177,3 @@ A privacy-focused federated learning prototype that enables multiple local AI mo
 
 ---
 
-### 💭 Developer Quote
-
-> "Building technology is not just about writing code — it's about solving problems and creating impact."
-
-⭐ **Feel free to explore my repositories and connect with me!**
