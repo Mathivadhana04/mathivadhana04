@@ -165,14 +165,6 @@ A privacy-focused federated learning prototype that enables multiple local AI mo
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
-
----
-
 # 🤝 Connect With Me
 
 📧 Email: **[mathivsb0412@gmail.com](mailto:mathivsb0412@gmail.com)**
