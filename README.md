@@ -1,4 +1,4 @@
-# Hi there, I'm Mathivadhana P 👋
+# I'm Mathivadhana P 👋
 
 ### 🚀 AI & Data Science Student | Java Developer | Full-Stack Developer
 
